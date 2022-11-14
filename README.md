@@ -21,5 +21,5 @@ Bibibliotecas utilizadas:
 ## Contato
 henriquegoldani@gmail.com
 
-##Linkedin
+## Linkedin
 https://www.linkedin.com/in/henrique-goldani/
